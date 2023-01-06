@@ -1,0 +1,27 @@
+{
+  "name": "mycreatereactapp",
+  "version": "1.0.0",
+  "description": "writing my own create react app",
+  "default": "index.html",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnansgitrepo/mycreatereactapp.git"
+  },
+  "author": "vijay ananthraman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishnansgitrepo/mycreatereactapp/issues"
+  },
+  "homepage": "https://github.com/krishnansgitrepo/mycreatereactapp#readme",
+  "devDependencies": {
+    "parcel": "^2.8.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
